@@ -51,7 +51,7 @@ tweets
 
 # Função que limpa caracteres especiais e links
 
-#def _clean_tweet(self, tweet.text):
+#def __clean_tweet(self, tweet.text):
 
 #       clean_text = re.sub(r'RT+', '', tweet.text)
   #     clean_text = re.sub(r'@\S+', '', clean_text)
