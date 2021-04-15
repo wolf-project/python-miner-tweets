@@ -6,10 +6,10 @@ import pandas as pd
 
 # Definindo token's de acesso, twitter developer tools
 
-consumer_key= '2Pa4kELzUNk2ySa6d1bXzQdfH'
-consumer_secret= 'GFWpLjikar5W0yySkQKsHuL0fSNj5kxDG56dq09gkFniKXXKiD'
-access_token= '1372604758880612352-cEhcjlNcJh7MIfGUjWvmvkRyMyBvEx'
-access_token_secret= 'pPuVnsN3DD1NVPKd4FkpWkA1DJ5OS4E7Rd3sUsejlUXRh'
+consumer_key= 'Suachave'
+consumer_secret= 'Suachave'
+access_token= 'Suachave'
+access_token_secret= 'Suachave'
 
 # Definindo as palavras-chave para a busca
 
