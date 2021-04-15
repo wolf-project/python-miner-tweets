@@ -1,6 +1,13 @@
+#   _______        _______ _____ _____   __  __ ___ _   _ _____ ____  
+#  |_   _\ \      / / ____| ____|_   _| |  \/  |_ _| \ | | ____|  _ \ 
+#    | |  \ \ /\ / /|  _| |  _|   | |   | |\/| || ||  \| |  _| | |_) |
+#    | |   \ V  V / | |___| |___  | |   | |  | || || |\  | |___|  _ < 
+#    |_|    \_/\_/  |_____|_____| |_|   |_|  |_|___|_| \_|_____|_| \_\
+#v1.0
+
+
 #Acessar o Twitter via API com Python
 
-#import os
 import tweepy as tw 
 import pandas as pd
 
@@ -13,9 +20,9 @@ access_token_secret= 'Suachave'
 
 # Definindo as palavras-chave para a busca
 
-search_words = "#Isolamento"
-new_search = "#Lockdown"
-date_since = "2021-04-01"
+search_words = "Palavra-chave"
+new_search = "Palavra-chave"
+date_since = "Definir a data"
 
 #Limite de tempo
 count = 50000
